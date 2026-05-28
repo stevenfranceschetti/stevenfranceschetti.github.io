@@ -8,6 +8,5 @@ When I started graduate work in Library Science, I had pictured it as a retireme
 I think of librarians as generalists, but like all academic disciplines, it has divided into very specialized areas, though most librarians I know point to the divide between education and vocation – this is something that I assumed going in.  What did surprise me was the development of AI (LLMs specifically) and how this seems to be transforming knowledge work.  
 Honestly, I’m here for it.  
 Despite having worked in Higher-Ed IT the specialized nature of technology means I’m looking at an entire field of study that feels vast, more than a little overwhelming, and so removed from my own starting skill set that it feels like starting from scratch.
-
 I’m here for that too.
 Hence, the return to my long neglected GitHub account. Part notebook, part development space, and part ‘to be determined.   
