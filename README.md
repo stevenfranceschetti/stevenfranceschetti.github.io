@@ -1,7 +1,7 @@
 # stevenfranceschetti.github.io
 Steven Franceschetti
 
-Higher-ed IT professional studying library science and applied generative AI.
+I work in higher-ed IT.  Bookstore aficionado. Pursuing an MLS as a potential retirement gig. Fedi verse and opensource apologist. Diving into AI technologies. Petter of strange cats.
 
 Interests:
 - Generative AI in libraries and higher education
