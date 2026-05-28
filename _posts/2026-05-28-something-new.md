@@ -9,4 +9,4 @@ I think of librarians as generalists, but like all academic disciplines, it has 
 Honestly, I’m here for it.  
 Despite having worked in Higher-Ed IT the specialized nature of technology means I’m looking at an entire field of study that feels vast, more than a little overwhelming, and so removed from my own starting skill set that it feels like starting from scratch.  
 I’m here for that too.  
-Hence, the return to my long neglected GitHub account. Part notebook, part development space, and part ‘to be determined.   
+Hence, the return to my long neglected GitHub account. Part notebook, part development space, and part ‘to be determined.'   
